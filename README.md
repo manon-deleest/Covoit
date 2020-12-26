@@ -17,6 +17,8 @@ La première page qui a été réalisé est lapage d'acceuil :
 
 Sur cette page, il y a le header, le bouton qui permet d'accéder à la connexion, le menu qui amène au différentes fonctionnalités du site internet ainsi que le footer. Le menu est réalisé de façon à ce que certaine fonctionnalité ne soit accéssible qu'une fois connecté. 
 
+***
+
 ### Déja, la réalisation des fonctionnalités en rapport avec les villes: 
 
 La page d'ajout d'une ville à été réalisé. Pour cela deux affichage ont été réalisé, le premier qui demande à l'utilisateur de saisir la ville et le deuxièe qui confirme si la ville à été ajouté à la base de donées ou non. 
@@ -25,9 +27,13 @@ La page d'ajout d'une ville à été réalisé. Pour cela deux affichage ont ét
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Validation%20Ajouter%20ville.PNG">
 
+***
+
 La page permettant d'afficher la liste des villes à été réalisé par la suite. Ici, le numéro de chacune des villes ainsi que leurs noms sontt affiché, de plus le nombre totale de ville enregistré est lui aussi affiché. 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ListerVille.PNG">
+
+***
 
 #### Ensuite les fonctionnalités en rapport avec les parcours: 
 
@@ -39,9 +45,13 @@ Une fois le parcours ajouté à la base de donnée le deuxième affichage s'affi
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Parcour%20validation.PNG">
 
+***
+
 La page permettant d'afficher la liste des parcours à été réalisé par la suite. Ici, le numéro du parcur, le nom de chacune des villes et le nombre de kilimotrème qui les sépare sont affiché. De plus, le nombre deparcours enregistré est affiché. 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ListeParcour.PNG">
+
+***
 
 #### Puis les fonctionnalités en rapport avec les personnes: 
 
@@ -61,6 +71,35 @@ Si l'utilisateur choise personnel, c'est cette page qui s'affiche :
 
 Par la suite, un messge de validation de l'ajout est affiché, comme pour tous les autres ajout du projet. 
 
+***
+
+La page permettant d'afficher la liste des peronnes à été réalisé par la suite. Ici, le numéro de chaque personnes, ainsi que son nom et son prénom s'affichent. De plus, le nombre de personnes enregistré s'affiche. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/affihePers.PNG">
+
+Enfin, si l'on souaite connaitre plus d'information sur une personne, il sufit de cliqué sur son numéro. Ainsi, Si c'est un étudiant ceci s'affiche : 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/D%C3%A9tailEt.PNG">
+
+Si c'est un salarié, ceci s'affiche: 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/D%C3%A9tailSal.PNG">
+
+***
+
+La page suivante permet de supprimer une personne. Pour cela la liste des personnes s'affiche. lorsque l'o clic sur supprimer, la personne ainsi que tous c'est trajet et ces avis son supprimé de la base de donées et un message de validation s'affiche. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/SuppPersonne.PNG">
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Valide%20supp.PNG">
+
+ici nous avons supprimé test2, si on ré affiche la liste des personne, on voit qu'il n'apparait plus. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Tert2%20plus%20p%C3%A9sent.PNG">
+
+***
+
+#### Enfin, les fonctionnalités en rapport avec les personnes: 
 
 
 
@@ -72,10 +111,9 @@ Par la suite, un messge de validation de l'ajout est affiché, comme pour tous l
 
 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ajout%C3%A9tudiant.PNG">
-Une fois le parcours ajouté à la base de donnée le deuxième affichage s'affiche. 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Parcour%20validation.PNG">
+
+
 
 La page permettant d'afficher la liste des parcours à été réalisé par la suite. Ici, le numéro du parcur, le nom de chacune des villes et le nombre de kilimotrème qui les sépare sont affiché. De plus, le nombre deparcours enregistré est affiché. 
 
