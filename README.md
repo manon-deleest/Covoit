@@ -29,7 +29,7 @@ La page permettant d'afficher la liste des villes à été réalisé par la suit
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ListerVille.PNG">
 
-####### Ensuite les fonctionnalités en rapport avec les parcours: 
+#### Ensuite les fonctionnalités en rapport avec les parcours: 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/AjouterParcour.PNG">
 
