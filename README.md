@@ -87,7 +87,7 @@ Si c'est un salarié, ceci s'affiche:
 
 ***
 
-La page suivante permet de supprimer une personne. Pour cela la liste des personnes s'affiche. lorsque l'o clic sur supprimer, la personne ainsi que tous c'est trajet et ces avis son supprimé de la base de donées et un message de validation s'affiche. 
+La page suivante permet de supprimer une personne. Pour cela la liste des personnes s'affiche, lorsque l'on clic sur supprimer, la personne ainsi que tous c'est trajet et ces avis son supprimé de la base de donées et un message de validation s'affiche. 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/SuppPersonne.PNG">
 
@@ -99,7 +99,15 @@ ici nous avons supprimé test2, si on ré affiche la liste des personne, on voit
 
 ***
 
-#### Enfin, les fonctionnalités en rapport avec les personnes: 
+Enfin, la page permettat de modifier les informations relative à une personne. Pour cela la liste des personnes s'affiche, lorsque l'on clic sur modifier, l'utilisateur à la possibilité de modifier plusieurs champs.  
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ModifPers.PNG">
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Modif.PNG">
+
+***
+
+#### Enfin, la connexion: 
 
 
 
