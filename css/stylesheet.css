@@ -1,0 +1,252 @@
+a{
+	color:#222222;
+	text-decoration: none;		
+}
+a:visited{
+	color:#222222;
+	text-decoration: none;		
+}
+body{
+	background-color:#222222;;
+	font-family: "Segoe UI", Verdana, serif;
+	font-size:12pt;
+	margin:0;
+	padding:0;
+}
+
+#header{
+	width:100%;
+	height:230px;
+	background-color:#222222;	
+	box-shadow:0 0 20px #000000;
+	border-bottom:solid #444444 8px;		
+}
+
+.colonne {
+	display:table-cell;
+	padding:25px;
+}
+  
+.colonne:nth-child(2) {
+  vertical-align:middle;
+  color:#CCCCCC;
+  font-size:32px;
+  font-weight:bold;		
+  text-shadow:1px 1px #111111, 2px 2px #000000;	
+}
+
+#entete{
+	width:1050px;
+	margin:auto;
+	display:table
+}
+
+#connect{
+	height:30px;
+	width:380px;
+	padding:10px;
+	position:absolute;
+	right:30px;
+	top:25%;
+	background-color:#AAAAAA;
+	border-radius:10px;
+	border:4px solid #111111;
+	box-shadow:0 0 5px #000000 inset;
+	color:#222222;
+	font-size:18px;
+	text-align:center;
+}
+#connect a{
+	color:#222222;
+	font-weight:bold;
+	text-decoration: none;
+	text-align: center; 	
+}
+#connect a :visited{
+	color:#222222;	
+	font-weight:bold;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+
+#corps{
+	float:left;
+	width: 100%;
+	background-color:#EDEDED;
+}
+
+#menu{
+	float : left;
+	width: 20%;	
+	min-height:355px;
+	margin-left: 3px;
+	color:#222222;
+	font-size:15px;
+}
+#menu p{
+	font-weight:bold;
+}
+#menu a{
+	color:#222222;
+	text-decoration: none;	
+}
+#menu a :visited{
+	color:#222222;
+	text-decoration: none;
+}
+
+#menuInt{
+	margin-top: 2px;
+	margin-left: 50px;	
+	min-height:367px;
+}
+
+#texte{
+	float:left ;
+	width: 79%;
+	margin-left: 5px;
+	text-align: center;
+	min-height:380px;
+	color:#222222;
+}
+
+#spacer {     
+  clear: both; 
+}
+
+#footer{
+	width:100%;
+	height:50px;
+	padding-top:10px;
+	background-color:#222222;
+	border-top:solid #444444 8px;	
+	padding-top:20px;
+	position:absolute;
+	bottom:0px;
+	box-shadow:0 -5px 5px #858585;
+	position:relative;	
+	color:#CCCCCC;
+	font-size:12px;
+	text-align:center;
+}
+
+.centreImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%
+}
+
+label{
+	font-size:12pt;
+   font-weight:bold;	
+}
+
+h1{
+	text-shadow:1px 1px 2px #333333;	
+}
+
+
+* a:hover{
+
+	text-decoration: underline;
+}
+#menu a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#connect a{
+	color:#222222;
+	font-weight:bold;
+	text-decoration: none;	
+}
+
+.nom {
+	position: relative;
+}
+
+.nom p{
+	margin : 6%;
+	color :rgb(90, 111, 233);
+}
+
+.nom .avis  {
+	visibility: hidden;
+	width: 150px;
+	background-color: rgb(255, 255, 81);
+	border-radius: 4px;
+	line-height: 140%;
+	padding: 4px;
+	z-index: 1;
+	overflow: hidden;
+	display: block;
+	position: absolute; 
+	top: 50px; 
+	left: -80px; 
+}
+
+.nom:hover .avis {
+	visibility: visible;
+}
+
+
+table{
+	border-collapse : collapse;
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+td {
+	border: 1px solid black;
+	width: 220px;
+}
+
+th{
+	border: 2px solid black;
+	width: 220px;
+	background-color:#858585; 
+}
+input:not([type="submit"]):not([type="radio"]), option, select{
+	border-radius: 7px;
+	border: 1px solid #111;
+	box-shadow: 2px 2px 3px rgb(100, 100, 100) inset;
+	color: #222222;
+	background-color: rgb(230, 230, 230);
+	padding: 0.5%;
+}
+
+input[type="submit"]{
+	border-radius: 5px;
+	border: 2px solid gray;
+	color: white;
+	background-color: gray;
+	padding: 0.5% 2%;
+	display: inline-block;
+}
+
+form div{
+	margin-bottom : 2%;
+}
+
+.colonnes{
+	display: grid;
+	grid-template-columns: repeat(2, 25%);
+	grid-gap: 6%;
+	margin-bottom: 2%;
+	justify-content: center;
+}
+
+.colonnes div{
+	display: flex;
+	justify-content: space-between;
+}
+
+.colonne1{
+	margin-left: 10px;
+}
+
+.colonne2{
+	margin-left: 10px;
+}
