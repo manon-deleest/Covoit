@@ -17,7 +17,7 @@ La première page qui a été réalisé est lapage d'acceuil :
 
 Sur cette page, il y a le header, le bouton qui permet d'accéder à la connexion, le menu qui amène au différentes fonctionnalités du site internet ainsi que le footer. Le menu est réalisé de façon à ce que certaine fonctionnalité ne soit accéssible qu'une fois connecté. 
 
-####### Déja, la réalisation des fonctionnalités en rapport avec les villes: 
+#### Déja, la réalisation des fonctionnalités en rapport avec les villes: 
 
 La page d'ajout d'une ville à été réalisé. Pour cela deux affichage ont été réalisé, le premier qui demande à l'utilisateur de saisir la ville et le deuxièe qui confirme si la ville à été ajouté à la base de donées ou non. 
 
