@@ -13,7 +13,10 @@ Pour ce projet, il fallait réaliser une plateforme de covoiturage et donc crée
 
 ***
 ## Travail réalisé
-La première page réalisée est la page d'accueil : 
+
+***
+
+#### La première page réalisée est la page d'accueil : 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Acceuil.PNG">
 
