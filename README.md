@@ -60,7 +60,7 @@ La page permettant d'afficher la liste des parcours a été réalisé par la sui
 
 #### Puis les fonctionnalités en rapport avec les personnes : 
 
-La page d'ajout d'une personne a été réalisée avec plusieurs affichages dont un pour saisir les informations relatives à une personne. Dans cet affichage l'utilisateur doit choisir entre étudiant et salarié. Le deuxième affichage se fait en fonction de la réponse. 
+La page d'ajout d'une personne a été réalisée avec plusieurs affichages dont un pour saisir les informations relatives à une personne. Dans cet affichage l'utilisateur doit choisir entre étudiant et peronnel. Le deuxième affichage se fait en fonction de la réponse. 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Ajouter%20personne.PNG">
 
