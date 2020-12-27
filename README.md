@@ -111,28 +111,3 @@ Enfin, la page permettant de modifier les informations relatives à une personne
 
 #### Enfin, la connexion :
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-La page permettant d'afficher la liste des parcours à été réalisé par la suite. Ici, le numéro du parcur, le nom de chacune des villes et le nombre de kilimotrème qui les sépare sont affiché. De plus, le nombre deparcours enregistré est affiché. 
-
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/ListeParcour.PNG">
-
-
-
-
-
-
-
