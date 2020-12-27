@@ -56,11 +56,9 @@ class ParcoursManager {
 	
 			$req = $this->db->prepare("SELECT distinct vil_num, vil_nom 
 			FROM (
-				SELECT vil_num1 FROM parcours,propose 
-					WHERE parcours.par_num=propose.par_num AND pro_sens='0'
+				SELECT vil_num1 FROM parcours 
 				)T1, (
-					SELECT vil_num2 FROM parcours,propose
-					WHERE parcours.par_num=propose.par_num AND pro_sens='1'
+					SELECT vil_num2 FROM parcours
 				)T2, ville
 			WHERE T1.vil_num1 = ville.vil_num OR T2.vil_num2 = ville.vil_num");
 			$req->execute();
