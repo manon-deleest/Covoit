@@ -114,3 +114,14 @@ Enfin, la page permettant de modifier les informations relatives à une personne
 
 #### Enfin, la connexion :
 
+Par la suite, la page de connexion, Sur celle-ci l’utilisateur devra remplir son login et son mot de passe. De plus un Captcha à été réalisé, celui-ci affiche deux nombres au hasard, l’utilisateur doit entrer la somme des deux nombres afficher pour pouvoir se connecter. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Connexion.PNG">
+
+Une fois connecté, le bouton de connexion change. Il permet de se déconnecter et affiche le login de l’utilisateur connecté.
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Connect%C3%A9.PNG">
+
+De plus, le menu affiche deux fonctionnalités en plus : 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
