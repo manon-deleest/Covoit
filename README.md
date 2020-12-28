@@ -131,6 +131,11 @@ De plus, le menu affiche deux fonctionnalités en plus :
 #### Pour finir, les fonctionnalités en rapport avec les trajet : 
 
 Pour cette partie, deux partie ont été réalisé, la première permettant de proposer un trajet et l'autre permettant de rechercher un trajet. 
+
+Ces fonctionnalités sont accessible seulement si l'utilisateur est connecté, dans le cas ou l'utilisteur essaierait s'acéder à la page par l'URL, sans être connecté,  un message s'affiche sur la page : 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
+
 Pour la première, il y a trois affichages, le premier demande à l'utilisateur de saisir la ville de départ.
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
