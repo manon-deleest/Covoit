@@ -125,3 +125,11 @@ Une fois connecté, le bouton de connexion change. Il permet de se déconnecter 
 De plus, le menu affiche deux fonctionnalités en plus : 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
+
+***
+
+#### Pour finir, les fonctionnalités en rapport avec les trajet : 
+
+
+
+
