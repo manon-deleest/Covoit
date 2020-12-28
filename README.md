@@ -130,6 +130,10 @@ De plus, le menu affiche deux fonctionnalités en plus :
 
 #### Pour finir, les fonctionnalités en rapport avec les trajet : 
 
+Pour cette partie, deux partie ont été réalisé, la première permettant de proposer un trajet et l'autre permettant de rechercher un trajet. 
+Pour la première, il y a trois affichages, le premier demande à l'utilisateur de saisir la ville de départ.
 
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
 
+Le deuxième demande à l'utilisateur la ville d'arrivé, l'heure de départ, le jours de départ, le nombre de place. ......
 
