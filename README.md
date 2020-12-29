@@ -148,6 +148,8 @@ Ensuite, un message de validation est affiché.
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/PROPOSER%20TRAJET3.PNG">
 
+***
+
 La deuxième fonctionnalité permet de rechercher un trajet. pour cela, encore trois affichage ont été réalisé, le premier permet à l'utilisateur de choisir la ville de départ du trajet. 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/RTrajet1.PNG">
@@ -162,8 +164,5 @@ Enfin, le dernier affichage est celui qui affiche les résultats de la recherche
 
 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
-......
+
 
