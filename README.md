@@ -162,7 +162,7 @@ Enfin, le dernier affichage est celui qui affiche les résultats de la recherche
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/RTrajet3.PNG">
 
-De plus, lorsque l'utilisateur passe la sourie sur 
+De plus, lorsque l'utilisateur passe la sourie sur le nom du covoitureur, la moyenne des avis donné est affiché ainsi que le dernier avis laissé à cette personne. 
 
 
 
