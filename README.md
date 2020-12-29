@@ -134,11 +134,36 @@ Pour cette partie, deux partie ont été réalisé, la première permettant de p
 
 Ces fonctionnalités sont accessible seulement si l'utilisateur est connecté, dans le cas ou l'utilisteur essaierait s'acéder à la page par l'URL, sans être connecté,  un message s'affiche sur la page : 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/non%20autoris%C3%A9.PNG">
 
 Pour la première, il y a trois affichages, le premier demande à l'utilisateur de saisir la ville de départ.
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/menuInscrit.png">
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposer%20trajet1.PNG">
 
-Le deuxième demande à l'utilisateur la ville d'arrivé, l'heure de départ, le jours de départ, le nombre de place. ......
+Le deuxième demande à l'utilisateur la ville d'arrivé, l'heure de départ, le jours de départ, le nombre de place. Ici l'utilisateur doit choisir la ville d'arrivé en fonction des parcours possible avec la ville de départ. De plus l'heure est vérifié et la date est à saisir sur un calandrié. Le nombre de places ne peut pas être inféieure ou égal à zéro. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
+
+Ensuite, un message de validation est affiché. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/PROPOSER%20TRAJET3.PNG">
+
+La deuxième fonctionnalité permet de rechercher un trajet. pour cela, encore trois affichage ont été réalisé, le premier permet à l'utilisateur de choisir la ville de départ du trajet. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/RTrajet1.PNG">
+
+Le deuxième affichage permet de choisir la ville d'arrivé, en fonction des parcours possible et des proposition faites. L'utilisateur doit également saisir le jour de départ, il peut choisir une précision, soit le jour même soità 1,2 ou 3 jour d'écart. Il doit également saisir à partir de quel heure il souhaite partir. 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/RTrajet2.PNG">
+
+Enfin, le dernier affichage est celui qui affiche les résultats de la recherche : 
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/RTrajet3.PNG">
+
+
+
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
+<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/proposerTrajet2.PNG">
+......
 
