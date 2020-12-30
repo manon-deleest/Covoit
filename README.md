@@ -9,7 +9,7 @@ Lors du module M3104, intitulé Programmation Web coté serveur, j’ai appris l
 ***
 ## Contexte
 
-Pour ce projet, il fallait réaliser une plateforme de covoiturage et donc créer une nouvelle personne, lister les personnes déjà existantes ou encore modifier ou supprimer une personne. Il faudrait pouvoir aussi ajouter ou lister les parcours ou les villes. Une personne inscrite pourrait se connecter et ainsi pouvoir proposer ou rechercher un trajet. Pour réaliser ce projet, la base de données nous était fournie. Les consignes du projet son disponible [ici](https://gitlab.com/MiCha/covoit)
+Pour ce projet, il fallait réaliser une plateforme de covoiturage et donc créer une nouvelle personne, lister les personnes déjà existantes ou encore modifier ou supprimer une personne. Il faudrait pouvoir aussi ajouter ou lister les parcours ou les villes. Une personne inscrite pourrait se connecter et ainsi pouvoir proposer ou rechercher un trajet. Pour réaliser ce projet, la base de données nous était fournie. Les consignes du projet sont disponible [ici](https://gitlab.com/MiCha/covoit)
 
 ***
 ## Travail réalisé
