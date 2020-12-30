@@ -30,7 +30,7 @@ La page d'ajout d'une ville a été créée. Pour cela deux affichages, le premi
 
 <img align="center" src="https://zupimages.net/up/20/53/u4ai.png">
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Validation%20Ajouter%20ville.PNG">
+<img align="center" src="https://zupimages.net/up/20/53/3kek.png">
 
 ***
 
@@ -94,13 +94,13 @@ Exemple pour un salarié :
 
 La page suivante permet de supprimer une personne. Pour cela la liste des personnes s'affiche, lorsque l'on clique sur supprimer, la personne ainsi que tous ses trajets et ses avis sont supprimés de la base de données et un message de validation s'affiche. 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/SuppPersonne.PNG">
+<img align="center" src="https://zupimages.net/up/20/53/6ai8.png">
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Valide%20supp.PNG">
+<img align="center" src="https://zupimages.net/up/20/53/azbo.png">
 
 Par exemple ici, nous avons supprimé « test2 », si on ré affiche la liste des personnes, on voit qu'il n'apparait plus. 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Tert2%20plus%20p%C3%A9sent.PNG">
+<img align="center" src="https://zupimages.net/up/20/53/9j63.png">
 
 ***
 
