@@ -164,5 +164,10 @@ Enfin, le dernier affichage est celui qui affiche les résultats de la recherche
 
 De plus, lorsque l'utilisateur passe la sourie sur le nom du covoitureur, la moyenne des avis donné est affiché ainsi que le dernier avis laissé à cette personne. 
 
+***
+## Environnement
 
+- Développer sur windows 10 X64
+- Fonctionne avec PHP version 7.4.9
+- Fonctionne avec Mariadb version 10.4.13 (penser à vérifier le DSN de connexion dans le fichier config.inc.php)
 
